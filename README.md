@@ -29,5 +29,5 @@ I would love to make some friends. Reach out to me.🤜🤛
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-sinha-969980206/)
 
 <p align="left">
-<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+<br><img src="https://github.com/Ashish-Sinha-programmer-202070/Ashish-Sinha-programmer-202070/blob/main/hadder.gif" width="280px"><br><br>
 </p>
