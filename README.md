@@ -32,3 +32,13 @@ I would love to make some friends. Reach out to me.🤜🤛
 <p align="left">
 <br><img src="https://github.com/Ashish-Sinha-programmer-202070/Ashish-Sinha-programmer-202070/blob/main/hadder.gif" width="300px"><br><br>
 </p>
+
+## ✨**Technical Skills** ✨
+
+#### Web Develpment
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
