@@ -1,4 +1,4 @@
-
+<img width="800" alt="https://github.com/Ashish-Sinha-programmer-202070/Ashish-Sinha-programmer-202070/blob/main/github_readme_profile.png">
 <h2 align="center" style="font-weight:500;font-size:28px;margin:10px;border-bottom:1px solid gray;">
         Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
