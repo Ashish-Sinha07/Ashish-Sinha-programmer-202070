@@ -80,3 +80,8 @@ I would love to make some friends. Reach out to me.🤜🤛
 
 ### **📈GitHub Stats**
 
+[![Ashihs Sinha's github stats](https://github-readme-stats.vercel.app/api?username=Ashish-Sinha-programmer-202070&show_icons=true)](https://github.com/Ashish-Sinha-programmer-202070)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Sinha-programmer-2020702&layout=compact&langs_count=10&hide=jupyter%20notebook)](https://github.com/Ashish-Sinha-programmer-202070)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ashish-Sinha-programmer-202070.visitor-bad
