@@ -23,11 +23,12 @@ I am a student currently studying B.Tech, Computer Science(2024) in Central Univ
 ## 🤘**Connect with Me**🤘
 
 I would love to make some friends. Reach out to me.🤜🤛
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-sinha-969980206/)
 
 <p align="left">
-<br><img src="https://github.com/Ashish-Sinha-programmer-202070/Ashish-Sinha-programmer-202070/blob/main/hadder.gif" width="280px"><br><br>
+<br><img src="https://github.com/Ashish-Sinha-programmer-202070/Ashish-Sinha-programmer-202070/blob/main/hadder.gif" width="300px"><br><br>
 </p>
