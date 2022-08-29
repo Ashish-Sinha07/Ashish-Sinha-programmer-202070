@@ -58,6 +58,18 @@ I would love to make some friends. Reach out to me.🤜🤛
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### IDEs/Editors 👨‍🔧 :
+
+<p align="left">
+<!-- <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">&nbsp;&nbsp; -->
+<img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
+</p>
+
+
 #### Tools
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
