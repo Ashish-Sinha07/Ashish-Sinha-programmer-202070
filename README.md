@@ -10,7 +10,7 @@
 I am a student currently studying B.Tech, Computer Science(2024) in Central University of Haryana. I like exploring techonologies and help the mankind to make better lives.
 </p>
 
-## 🤘**Connect with Me**🤘
+## 🤘 **Connect with Me** 🤘
 
 I would love to make some friends. Reach out to me.🤜🤛
 
