@@ -1,17 +1,4 @@
-<!--
-**Ashish-Sinha-programmer-202070/Ashish-Sinha-programmer-202070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2 align="center" style="font-weight:500;font-size:28px;margin:10px;border-bottom:1px solid gray;">
         Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -82,6 +69,21 @@ I would love to make some friends. Reach out to me.🤜🤛
 
 [![Ashihs Sinha's github stats](https://github-readme-stats.vercel.app/api?username=Ashish-Sinha-programmer-202070&show_icons=true)](https://github.com/Ashish-Sinha-programmer-202070)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Sinha-programmer-2020702&layout=compact&langs_count=10&hide=jupyter%20notebook)](https://github.com/Ashish-Sinha-programmer-202070)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Sinha-programmer-202070&layout=compact&langs_count=10&hide=jupyter%20notebook)](https://github.com/Ashish-Sinha-programmer-202070)
+    
+    
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ashish-Sinha-programmer-202070.visitor-bad)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ashish-Sinha-programmer-202070.visitor-bad
+ <img src="https://img.shields.io/github/followers/Ashish-Sinha-programmer-202070?style=social">&nbsp;&nbsp;&nbsp;&nbsp;     
+ 
+ ## Just a snake eating my contributions 🐍
+<p align="center">
+<img src="">
+</p>
+
+<hr>
+<br>
+
+<!--
+**Ashish-Sinha-programmer-202070/Ashish-Sinha-programmer-202070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
