@@ -14,9 +14,9 @@ I am a student currently studying B.Tech, Computer Science(2024) in Central Univ
 
 I would love to make some friends. Reach out to me.🤜🤛
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100020083088359)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sinha__ashish/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-sinha-969980206/)
 
 <p align="left">
