@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center" style="font-weight:500;font-size:28px;margin:10px;border-bottom:1px solid gray;">
-        Hi there 👋, I'm <span style="font-family:cursive;font-weight:900;">Ashish Sinha !</span>
+        Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="25"
+         width="25" />, I'm <span style="font-family:cursive;font-weight:900;">Ashish Sinha !</span>
 </h2>
 
 <p style="text-align:justify;">
@@ -74,3 +77,6 @@ I would love to make some friends. Reach out to me.🤜🤛
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### **📈GitHub Stats**
+
